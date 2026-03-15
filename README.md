@@ -1,5 +1,7 @@
 # aframe-stereo-component
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A stereo component for [A-Frame](https://aframe.io) VR.
 
 ## Demo
