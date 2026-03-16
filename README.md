@@ -2,7 +2,7 @@
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-A stereo component for [A-Frame](https://aframe.io) VR.
+> A stereo component for [A-Frame](https://aframe.io) VR.
 
 ## Demo
 You can see demos for both examples on the [project page](http://oscarmarinmiro.github.io/aframe-stereo-component).
@@ -37,4 +37,4 @@ Install and use by directly including the [browser files](dist):
 ```
 
 ## License
-The MIT License (MIT)
+MIT License — see [LICENSE](LICENSE).
