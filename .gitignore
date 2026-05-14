@@ -6,3 +6,7 @@ npm-debug.log
 examples/build.js
 
 examples/build.js
+
+# meta-ops cleanup
+.DS_Store
+Thumbs.db
