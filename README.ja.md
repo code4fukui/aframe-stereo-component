@@ -3,7 +3,7 @@
 > [A-Frame](https://aframe.io) VR用のステレオコンポーネントです。
 
 ## デモ
-2つのサンプルのデモは[プロジェクトページ](http://oscarmarinmiro.github.io/aframe-stereo-component)で確認できます。
+2つのサンプルのデモはプロジェクトページ *(demo unavailable)*で確認できます。
 
 ## 機能
 - **'stereocam' コンポーネント**: モノスコピック表示（「VRモード」に入っていない状態）において、A-Frameのカメラにどちらの「目」をレンダリングするかを指示します。

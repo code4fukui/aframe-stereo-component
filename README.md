@@ -5,7 +5,7 @@
 > A stereo component for [A-Frame](https://aframe.io) VR.
 
 ## Demo
-You can see demos for both examples on the [project page](http://oscarmarinmiro.github.io/aframe-stereo-component).
+You can see demos for both examples on the project page *(demo unavailable)*.
 
 ## Features
 - **'stereocam' component**: Tells an A-Frame camera which 'eye' to render in case of monoscopic display (without 'Entering VR').
